@@ -1,0 +1,5 @@
+D:\Yogesh Salunkhe\Console_Application\01RockPapperScissor\01RockPapperScissor\bin\Debug\01RockPapperScissor.exe
+D:\Yogesh Salunkhe\Console_Application\01RockPapperScissor\01RockPapperScissor\bin\Debug\01RockPapperScissor.pdb
+D:\Yogesh Salunkhe\Console_Application\01RockPapperScissor\01RockPapperScissor\obj\x86\Debug\01RockPapperScissor.exe
+D:\Yogesh Salunkhe\Console_Application\01RockPapperScissor\01RockPapperScissor\obj\x86\Debug\01RockPapperScissor.pdb
+D:\Yogesh Salunkhe\Console_Application\01RockPapperScissor\01RockPapperScissor\obj\x86\Debug\01RockPapperScissor.csprojResolveAssemblyReference.cache
