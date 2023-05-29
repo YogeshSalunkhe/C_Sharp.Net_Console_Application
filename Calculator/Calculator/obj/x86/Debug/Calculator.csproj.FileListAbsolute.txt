@@ -1,0 +1,4 @@
+D:\Yogesh Salunkhe\Console_Application\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Yogesh Salunkhe\Console_Application\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Yogesh Salunkhe\Console_Application\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Yogesh Salunkhe\Console_Application\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
