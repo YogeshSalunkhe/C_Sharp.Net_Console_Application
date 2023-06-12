@@ -30,7 +30,7 @@ namespace _01RockPapperScissor
                 UserMove = Convert.ToInt32(Console.ReadLine());
 
                 Random Ran = new Random();
-                CompMove = Ran.Next(0,3);
+                CompMove = Ran.Next(1,3);
 
                 if (UserMove == 0)
                 {
